@@ -1,10 +1,65 @@
-.hotgayspainting {
-   size: ;
-   position: relative;
-   left: 150px;
-  
+.upper {
+    background-color:#E8DED6 ;
+}
 
- }
+.navbar {
+    background-color:#E8DED6 ;
+    list-style-type: none ;
+    color:#8B705F ;
+}
+
+a {
+    color: #8B705F;
+    text-decoration: none;
+}
+
+.one {
+    position: fixed;
+    top: 12px;
+    left: 530px;
+}
+
+.two {
+    position: fixed;
+    top: 12px;
+    left: 630px;
+}
+
+.three {
+    position: fixed;
+    top: 12px;
+    left: 730px;
+}
+
+.d-flex{
+    position: fixed;
+    top: 13px;
+    right: 45px;
+}
+
+.main {
+    font-size: 56px;
+    padding-left: 100px;
+    
+}
+
+.additional {
+    text-align: right;
+    position: relative;
+    bottom: 35px;
+    
+}
+
+.hotsgayspainting {
+   width: 1100px;
+   position: relative;
+
+   left: 150px;
+  }
+
+  .plot {
+    padding: 50px;
+  }
  
  body {
     background-color:#E8DED6 ;
